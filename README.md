@@ -7,5 +7,8 @@ So nice to see you here! Feel free to stay and look around, or just sit and enjo
  - Collaboration with a group on the [National Cipher Challenge 2019, 2020](https://www.cipherchallenge.org/)
  - [Cyberdiscovery](https://joincyberdiscovery.com/) (through Assess) through to essentials in 2019 and 2020.
 
+#### LANGUAGES
+Julia, Python, C#, GML and counting.
+
 #### PROJECTS
 My main projects are pins below this. Feel free to contribute!
