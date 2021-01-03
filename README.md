@@ -8,7 +8,7 @@ So nice to see you here! Feel free to stay and look around, or just sit and enjo
  - [Cyberdiscovery](https://joincyberdiscovery.com/) (through Assess) progressing to essentials in 2019-20 and 2020-21.
 
 #### LANGUAGES
-Julia, Python, GML and counting.
+Julia, Python, GML, GDScript (kind of) and counting.
 
 #### PROJECTS
 My main projects are pins below this. Feel free to contribute!
