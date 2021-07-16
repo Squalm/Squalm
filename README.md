@@ -8,7 +8,7 @@ So nice to see you here! Feel free to stay and look around, or just sit and enjo
  - All of these projects on github and myriad other smaller projects that never made it on here.
 
 #### LANGUAGES
-**Confident:** Julia, Python, GML.
+**Confident:** Julia, Python, GML.  
 **Learning:** Perl, GDScript, C#, HTML/CSS/JS. 
 
 #### PROJECTS
