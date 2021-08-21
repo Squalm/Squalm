@@ -14,5 +14,5 @@ So nice to see you here! Feel free to stay and look around, or just sit and enjo
 **Learning:** Perl, GDScript, C#.
 
 #### PROJECTS
-Hey a made a website: [Go/Baduk/Weiqi clock](https://www.badukclock.com/)  
+Hey I made a website: [Go/Baduk/Weiqi clock](https://www.badukclock.com/)  
 My other main projects are pins below this. Feel free to contribute!
