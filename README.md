@@ -5,6 +5,6 @@ So nice to see you here! Feel free to stay and look around, or just sit and enjo
 Julia, Python, GML, HTML/JS/CSS.  
 
 #### PROJECTS
-Hey I made a couple websites: [Go/Baduk/Weiqi clock](https://www.badukclock.com/) and [Interbrain](https://www.interbrain.co.uk/)  
+Hey I make websites: [Go/Baduk/Weiqi clock](https://www.badukclock.com/), [Interbrain](https://www.interbrain.co.uk/) and [Straightn't](https://straightnt.netlify.app/)  
 When I make games they go here: [Xhirp on itch.io](https://xhrip.itch.io/)  
 My main projects are pins below this. Feel free to contribute!
