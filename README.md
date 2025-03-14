@@ -7,4 +7,3 @@ Julia, Python, HTML/JS/CSS, GDScript, GML.
 #### PROJECTS
 Hey I make websites: [Climate Soup](https://climatesoup.co.uk/), [States Magazine](https://states-magazine.com/), [Emergence](https://emergence.xhirp.com/), and [Base-n](https://basen.xhirp.com/)  
 When I make games they go here: [Xhirp on itch.io](https://xhrip.itch.io/)  
-My main projects are pins below this. Feel free to contribute!
